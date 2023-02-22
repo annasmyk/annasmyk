@@ -23,7 +23,7 @@ My name is Anna Smyk. I am a time series methodologist at [Insee](https://github
 
 ### JDemetra+ documentation 📖
 
-I write the new JDemetra+ online [documentation](https://jdemetra-new-documentation.netlify.app/) with [Tanguy Barthelemy](https://github.com/TanguyBarthelemy), [Alain Quartier-La-Tente](https://github.com/AQLT)) and [Karsten Webel](https://github.com/webelk-Authors).
+I write the new JDemetra+ online [documentation](https://jdemetra-new-documentation.netlify.app/) with [Tanguy Barthelemy](https://github.com/TanguyBarthelemy), [Alain Quartier-La-Tente](https://github.com/AQLT) and [Karsten Webel](https://github.com/webelk-Authors).
 
 ### JD+ Blog
 
