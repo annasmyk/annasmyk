@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hello !
 
-My name is Anna Smyk. I am a time series methodologist at [Insee](https://github.com/InseeFr) 🇫🇷. I work with  on Seasonal Adjustment tools and methods, and mainly on the [JDemetra+](https://github.com/jdemetra) software. We provide beginner and advanced training in seasonal adjustment, as well as assistance in setting up a production process of seasonally adjusted series.
+My name is Anna Smyk. I am a time series methodologist at [Insee](https://github.com/InseeFr) 🇫🇷. I work on Seasonal Adjustment tools and methods, and mainly on the [JDemetra+](https://github.com/jdemetra) software. We provide beginner and advanced training in seasonal adjustment, as well as assistance in setting up a production process of seasonally adjusted series.
 
 ### JDemetra+ documentation 📖
 
