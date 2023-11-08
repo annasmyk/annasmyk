@@ -21,7 +21,7 @@ I am a time series methodologist at [Insee](https://github.com/InseeFr) 🇫🇷
 Full resume [here](https://github.com/annasmyk/annasmyk/blob/main/CV_Anna_Smyk_2023.pdf)
 ### JDemetra+ documentation 📖
 
-I write the new JDemetra+ online [documentation](https://jdemetra-new-documentation.netlify.app/) with [Tanguy Barthelemy](https://github.com/TanguyBarthelemy), [Alain Quartier-La-Tente](https://github.com/AQLT) and [Karsten Webel](https://github.com/webelk-Authors).
+I write the new JDemetra+ online [documentation](https://jdemetra-new-documentation.netlify.app/) with [Tanguy Barthelemy](https://github.com/TanguyBarthelemy), [Karsten Webel](https://github.com/webelk-Authors) among others.
 
 ### JD+ Blog
 
@@ -29,7 +29,7 @@ You can follow us on our [JD+ Universe blog](https://jdemetra-universe-blog.netl
 
 ### JD Tutorials ▶️
 
-[Tutorials for JDemetra+ software](https://github.com/TanguyBarthelemy/JD_Tutorials) allow to discover JDemetra+, the Graphical User Interace and the dedicated R packages with pages and videos, available on our 🎥 [youtube channel (@TSwithJDemetraandR)](https://www.youtube.com/@TSwithJDemetraandR).
+[Tutorials for JDemetra+ software](https://github.com/TanguyBarthelemy/JD_Tutorials) allow to discover JDemetra+, the Graphical User Interface and the dedicated R packages with pages and videos, available on our 🎥 [youtube channel (@TSwithJDemetraandR)](https://www.youtube.com/@TSwithJDemetraandR).
 
 ## Contacts ☎️
 
