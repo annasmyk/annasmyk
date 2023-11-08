@@ -21,7 +21,7 @@ I am a time series methodologist at [Insee](https://github.com/InseeFr) 🇫🇷
 Full resume [here](https://github.com/annasmyk/annasmyk/blob/main/CV_Anna_Smyk_2023.pdf)
 ### JDemetra+ documentation 📖
 
-I write the new JDemetra+ online [documentation](https://jdemetra-new-documentation.netlify.app/) with [Tanguy Barthelemy](https://github.com/TanguyBarthelemy), [Karsten Webel](https://github.com/webelk-Authors) among others.
+I write the new JDemetra+ online [documentation](https://jdemetra-new-documentation.netlify.app/) with [Tanguy Barthelemy](https://github.com/TanguyBarthelemy) and [Karsten Webel](https://github.com/webelk-Authors) among others.
 
 ### JD+ Blog
 
