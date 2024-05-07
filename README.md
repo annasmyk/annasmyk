@@ -22,7 +22,7 @@ Full resume [here](https://github.com/annasmyk/annasmyk/blob/main/CV_AnnaSmyk_20
 
 I am an active member of two JDemetra+ related organisations: 
 
-- [rjdverse](https://github.com/stace-tsa-shop): R ecosystem giving access to JDemetra+ algorithms
+- [rjdverse](https://github.com/rjdverse): R ecosystem giving access to JDemetra+ algorithms
   
 - [stace-tsa-shop](https://github.com/stace-tsa-shop): resources for Time Series Analysis (restricted to STACE-TSA members, access on request)
 
