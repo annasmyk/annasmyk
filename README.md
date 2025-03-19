@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 I am a time series methodologist at [Insee](https://github.com/InseeFr) 🇫🇷. I work on Seasonal Adjustment tools and methods, and mainly on [JDemetra+](https://github.com/jdemetra) software. I can provide beginner and advanced training in seasonal adjustment, as well as assistance in setting up a production process of seasonally adjusted series.
 Full resume [here](https://github.com/annasmyk/annasmyk/blob/main/CV_AnnaSmyk_2024.pdf)
 
+I am an active member of two JDemetra+ related organisations: 
+
+- [rjdverse](https://github.com/rjdverse): R ecosystem giving access to JDemetra+ algorithms
+  
+- [stace-tsa-shop](https://github.com/stace-tsa-shop): resources for Time Series Analysis (restricted to STACE-TSA members, access on request)
+
 ### JDemetra+ documentation 📖
 
 I write the new JDemetra+ online [documentation](https://jdemetra-new-documentation.netlify.app/) with [Tanguy Barthelemy](https://github.com/TanguyBarthelemy) and [Karsten Webel](https://github.com/webelk-Authors) among others.
