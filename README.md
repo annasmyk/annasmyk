@@ -24,7 +24,7 @@ I am an active member of two JDemetra+ related organisations:
 
 - [rjdverse](https://github.com/rjdverse): R ecosystem giving access to JDemetra+ algorithms
   
-- [stace-tsa-shop](https://github.com/stace-tsa-shop): resources for Time Series Analysis (restricted to STACE-TSA members, access on request)
+- [cosa-tsa-shop](https://github.com/cosa-tsa-shop): resources for Time Series Analysis (restricted to STACE-TSA members, access on request)
 
 ### JDemetra+ documentation 📖
 
