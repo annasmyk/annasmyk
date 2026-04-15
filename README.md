@@ -30,7 +30,7 @@ I am an active member of two JDemetra+ related organisations:
 
 ### JDemetra+ documentation 📖
 
-I write JDemetra+ [documentation](https://jdemetra-new-documentation.netlify.app/) with [Tanguy Barthelemy](https://github.com/TanguyBarthelemy) and [Karsten Webel](https://github.com/webelk-Authors) among others.
+I write JDemetra+ [documentation](https://doc.jdemetra.org/) with [Tanguy Barthelemy](https://github.com/TanguyBarthelemy) and [Karsten Webel](https://github.com/webelk-Authors) among others.
 
 ### JD+ Blog
 
