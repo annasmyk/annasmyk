@@ -36,7 +36,7 @@ If you need **user support** around JDemetra+, please head over to [https://gith
 
 ### JDemetra+ documentation 📖
 
-I write JDemetra+ [documentation](https://doc.jdemetra.org/) with [Tanguy Barthelemy](https://github.com/TanguyBarthelemy) and [Karsten Webel](https://github.com/webelk-Authors) among others.
+I write JDemetra+ [documentation](https://doc.jdemetra.org/) with [Eulalie Delaune](https://github.com/edln6), [Tanguy Barthelemy](https://github.com/TanguyBarthelemy), [Karsten Webel](https://github.com/webelk-Authors) and other colleagues working on the [COSA Project](www.cosa-grant.org), cofounded by the European Union.
 
 ### JD+ Blog to keep up with the news
 
