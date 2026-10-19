@@ -22,7 +22,7 @@ Full resume [here](https://github.com/annasmyk/annasmyk/blob/main/CV_AnnaSmyk_20
 
 I am the host, on behalf of Insee, of the next edition of **Use of R in Official Statistics (uRos), Nov 18-20 2026, Paris** Look it up [here](https://r-project.ro/conference2026.html)!
 
-I am the consortium coordinator of the Eurostat co-founded [COSA project](https://cosa-grant.org/) and therein the technical coordinator of the Time Series Analysis Work Package. 
+I am the consortium coordinator of the Eurostat co-founded [COSA project](https://cosa-grant.org/) and therein the technical coordinator of the Time Series Analysis Work Package **(COSA-TSA)**. 
 
 Thus, I am an active member of three JDemetra+ related organisations: 
 
