@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am a time series methodologist at [Insee](https://github.com/InseeFr) 🇫🇷. I work on Seasonal Adjustment tools and methods, and mainly on [JDemetra+](https://jdemetra.org) software. I can provide beginner and advanced training in seasonal adjustment, as well as assistance in setting up a production process of seasonally adjusted series.
 Full resume [here](https://github.com/annasmyk/annasmyk/blob/main/CV_AnnaSmyk_2026.pdf)
 
-I am the host, on behalf of Insee, of the next edition of **Use of R in Official Statistics (uRos), Nov 18-20 2026, Paris** Look it up [here](https://r-project.ro/conference2026.html)!
+I am the Co-Organiser of the annual workshop on Time Series Analysis for Official Statistics at OECD in December. Next edition on 8, 9 December 2026: check the details [here](https://www.oecd.org/en/events/2026/12/6th-workshop-on-time-series-analysis-for-official-statistics.html)
 
 I am the consortium coordinator of the Eurostat co-founded [COSA project](https://cosa-grant.org/) and therein the technical coordinator of the Time Series Analysis Work Package **(COSA-TSA)**. 
 
