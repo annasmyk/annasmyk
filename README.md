@@ -20,9 +20,13 @@ Here are some ideas to get you started:
 I am a time series methodologist at [Insee](https://github.com/InseeFr) 🇫🇷. I work on Seasonal Adjustment tools and methods, and mainly on [JDemetra+](https://www.jdemetra.org) software. I can provide beginner and advanced training in seasonal adjustment, as well as assistance in setting up a production process of seasonally adjusted series.
 Full resume [here](https://github.com/annasmyk/annasmyk/blob/main/CV_AnnaSmyk_2026.pdf)
 
-I am the Co-Organiser of the annual workshop on Time Series Analysis for Official Statistics at OECD in December. Next edition on 8, 9 December 2026: check the details [here](https://www.oecd.org/en/events/2026/12/6th-workshop-on-time-series-analysis-for-official-statistics.html)
+Also:
 
-I am the consortium coordinator of the Eurostat co-founded [COSA project](https://cosa-grant.org/) and therein the technical coordinator of the Time Series Analysis Work Package **(COSA-TSA)**. 
+- Co-Organiser of the annual workshop on Time Series Analysis for Official Statistics at OECD in December. Next edition on 8, 9 December 2026: check the details [here](https://www.oecd.org/en/events/2026/12/6th-workshop-on-time-series-analysis-for-official-statistics.html)
+  
+- Member of [NTTS](https://cros.ec.europa.eu/NTTS2027) Scientific Committee
+
+- Consortium coordinator of the Eurostat co-founded [COSA project](https://www.cosa-grant.org/) and therein the technical coordinator of the Time Series Analysis Work Package **(COSA-TSA)**. 
 
 Thus, I am an active member of three JDemetra+ related organisations: 
 
@@ -33,6 +37,9 @@ Thus, I am an active member of three JDemetra+ related organisations:
 - [cosa-tsa-shop](https://github.com/cosa-tsa-shop): resources for Time Series Analysis around Eurostat founded COSA project.
 
 If you need **user support** around JDemetra+, please head over to [https://github.com/cosa-tsa-shop/UserSupport](https://github.com/cosa-tsa-shop/UserSupport)
+
+For questions on production processes of Seasonally Adjusted data with JDemetra+ and R you can browse [https://prod.jdemetra.org/](https://prod.jdemetra.org/)
+
 
 ### JDemetra+ documentation 📖
 
